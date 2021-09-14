@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notifications Dashboard</string>
+    <string name="notifications_service_name">Notification Reader</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="notifications_fragment_label">Notifications Dashboard</string>
+    <string name="button_create_notification">Create notification</string>
+    <string name="button_accept_notification">Accept notification</string>
+
+    <string name="access_not_granted">Notifications Access status: NOT GRANTED</string>
+    <string name="access_granted">Notifications Access status: GRANTED</string>
+    <string name="notification_channel_name">Sample feed</string>
+    <string name="notification_channel_description">Dummy notifications created by the app</string>
+    <string name="button_open_preferences">Grant Notification Access</string>
+</resources>
